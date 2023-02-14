@@ -1,3 +1,1 @@
-Hello,this is my Sample DevOps Project 
-
-                                        - from Pavan Kumar
+Hello,this is my Sample DevOps Project - from Pavan Kumar
